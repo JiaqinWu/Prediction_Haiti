@@ -1,4 +1,3 @@
-pickle
 plotly
 xgboost
 sklearn
