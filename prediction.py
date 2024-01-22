@@ -93,7 +93,7 @@ def create_radar(lis1):
         polar=dict(
             radialaxis=dict(
                 visible=True,
-                range=[0, max(lis1)] if predict_button else [0,100]  
+                range=[0, max(lis1)]  
             )
         ),
         showlegend=True,
